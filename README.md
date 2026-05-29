@@ -18,3 +18,8 @@ Implemented multiple sorting algorithms in C++.
 - Performance Analysis
 - Correctness Testing
 - Different Dataset Scenarios
+
+## Technologies
+- C++
+- Data Structures
+- Algorithms
