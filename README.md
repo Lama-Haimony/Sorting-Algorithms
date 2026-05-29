@@ -1,2 +1,20 @@
-# Sorting-Algorithms
-Implemented and tested multiple sorting algorithms in C++ including Merge, Quick, Insertion, and Counting Sort.
+# Sorting Algorithms
+
+## Overview
+Implemented multiple sorting algorithms in C++.
+
+## Algorithms
+- Merge Sort
+- Quick Sort
+- Insertion Sort
+- Counting Sort
+
+## Testing Scenarios
+- Random datasets
+- Sorted datasets
+- Reverse-sorted datasets
+
+## Features
+- Performance Analysis
+- Correctness Testing
+- Different Dataset Scenarios
